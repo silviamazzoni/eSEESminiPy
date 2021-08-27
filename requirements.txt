@@ -9,4 +9,3 @@ numpy
 pandas
 eSEESminiPy
 openseespy
-random
